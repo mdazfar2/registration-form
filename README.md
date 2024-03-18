@@ -18,4 +18,4 @@ Welcome to the Registration Form project! This is a simple HTML form designed to
 
    ```bash
    git clone https://github.com/mdazfar2/registration-form.git
-   ```
+   ``
